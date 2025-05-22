@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my second Git Repositary.
 <br>
-Author - Sakshi Patidar
+Author - Sakshi Patidar[Krishna]
